@@ -51,7 +51,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "jackwillfly3235/morethan-log",
       "issue-term": "og:title",
